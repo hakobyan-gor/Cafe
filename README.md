@@ -4,12 +4,12 @@ Rest Api for Simple Cafe Manager Assignment
 
 Developed by Gor Hakobyan
 
-##Requirements
+## Requirements
 For building and running the application you need:
 
 - JDK 14
 
-##Security
+## Security
 Integration with Spring Security and add other filter for jwt token process.
 
 The secret key is stored in com.cafe.utils.Configuration.class

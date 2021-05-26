@@ -37,10 +37,9 @@ public class SwaggerConfig extends WebMvcConfigurationSupport {
         return new ApiInfoBuilder()
                 .title("REST API")
                 .description("REST API for Cafe ")
-                .version("0.5.2")
+                .version("0.1.0")
                 .license("Apache License Version 2.0")
                 .licenseUrl("https://www.apache.org/licenses/LICENSE-2.0")
-                .contact(new Contact("ArmBoldMind LLC", "", "armboldmind@gmail.com"))
                 .build();
     }
 
